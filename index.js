@@ -66,5 +66,6 @@ module.exports = {
   pointGrid: require('turf-point-grid'),
   squareGrid: require('turf-square-grid'),
   triangleGrid: require('turf-triangle-grid'),
-  hexGrid: require('turf-hex-grid')
+  hexGrid: require('turf-hex-grid'),
+  cut: require('turf-cut')
 };
